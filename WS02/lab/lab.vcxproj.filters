@@ -21,10 +21,10 @@
     <ClCompile Include="cstr.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="dma.cpp">
+    <ClCompile Include="sensorAnalysis.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="sensorAnalysis.cpp">
+    <ClCompile Include="dma.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -45,10 +45,10 @@
     <ClInclude Include="cstr.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="dma.h">
+    <ClInclude Include="sensorAnalysis.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="sensorAnalysis.h">
+    <ClInclude Include="dma.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
