@@ -18,10 +18,10 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="io.cpp">
+    <ClCompile Include="cstr.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="cstr.cpp">
+    <ClCompile Include="io.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -39,10 +39,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="io.h">
+    <ClInclude Include="cstr.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="cstr.h">
+    <ClInclude Include="io.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
